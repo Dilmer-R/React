@@ -8,19 +8,19 @@
 
 <h3>Cosas nuevas que se implementaron en ES6</h3>
 
-* Clases
+- [00-Clases](./00-Clases/README.md)
 
-* Funciones Flecha
+- [01-Funciones-Flecha](./01-Funciones-Flecha/README.md)
 
-* Variables (Let, Const, var)
+- [02-Variables](./02-Variables/README.md)
 
-* Métodos de matriz(array) como ```.map()```
+- [03-Métodos-Matriz](./03-M%C3%A9todos-Matriz/README.md)
 
-* Desestructuración
+- [04-Desestructuración](./04-Desestructuración/README.md)
 
-* Módulos
+- [05-Módulos](./05-Módulos/README.md)
 
-* Operador Ternario
+- [06-Operador-Ternario](./06-Operador-Ternario/README.md)
 
-* Operador de propagación
+- [07-Operador-Propagación](./07-Operador-Propagaci%C3%B3n/README.md)
 
