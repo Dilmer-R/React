@@ -18,9 +18,10 @@
 
 - [04-Desestructuración](./04-Desestructuración/README.md)
 
-- [05-Módulos](./05-Módulos/README.md)
+- [05-Operador-Propagación](./05-Operador-Propagaci%C3%B3n/README.md)
 
-- [06-Operador-Ternario](./06-Operador-Ternario/README.md)
+- [06-Módulos](./06-Módulos/README.md)
 
-- [07-Operador-Propagación](./07-Operador-Propagaci%C3%B3n/README.md)
+- [07-Operador-Ternario](./07-Operador-Ternario/README.md)
+
 
