@@ -10,12 +10,12 @@
         <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
     </head>
     <body>
-        <div id="mydiv"></div>
+        <div id="root"></div>
         <script type="text/babel">
-            function Hola() {
-                return <h1>Hello World</h1>
+            function Hola(props) {
+                return <h1>Hello {props.name}</h1>
             }
-            ReactDOM.render(<Hola />, document.getElementById('mydiv'))
+            ReactDOM.render(<Hola name="Benyamin"/>, document.getElementById('root'))
         </script>
     </body>
 </html>

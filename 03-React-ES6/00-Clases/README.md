@@ -9,7 +9,7 @@
 ```js
 class Persona {
     constructor(name) {
-        this.nombre = nombre;
+        this.brand = name;
     }
 }
 ```
@@ -64,10 +64,10 @@ class Car {
 }
 
 /****************************************************************************
-Creamos una clase llamada Madel que heredará los métodos de la clase "Coche".
+Creamos una clase llamada Madel que heredará los métodos de la clase "Car".
 *****************************************************************************/
 class Model extends Car {
-    constructor(numbre, mod) {
+    constructor(nombre, mod) {
         super(nombre);
         this.model = mod;
     }

@@ -2,7 +2,7 @@
 
 <h3>¿Qué es React?</h3>
 
-* React es un framework de Javascript frontend, desarrollada o creada por facebook.
+* React no es un framework, es una biblioteca de Javascript frontend, desarrollada o creada por facebook para crear interfaces de usuario (UI).
 
 <h3>¿Cóco funciona React?</h3>
 
