@@ -86,3 +86,4 @@ root.render(myElement);
 
 - Las declaraciones ```if/else``` no pueden hacerse dentro de el código JXS.
 
+- Por ello, podemos escribir condicionales fuera de JSX o usar operadores ternarios
